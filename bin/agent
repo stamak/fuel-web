@@ -43,6 +43,7 @@ AGENT_CONFIG = "/etc/nailgun-agent/config.yaml"
 STORAGE_CODES = [3, 8, 65, 66, 67, 68, 69, 70, 71, 104, 105, 106, 107, 108, 109, 110, 111, 202, 252, 253]
 REMOVABLE_VENDORS = [
   "Adaptec",
+  "Kingston",
 ]
 
 class McollectiveConfig
